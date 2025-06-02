@@ -1,0 +1,6 @@
+## Conhecimento
+No Reino de Balconato, conhecimento é uma forma vital de capital. Em um ambiente onde o frio extremo impõe limites diários à sobrevivência, saber é tão valioso quanto ter. Técnicas de conservação térmica, rotas seguras entre bairros, manutenção de estufas, leitura de sinais climáticos e uso eficiente de recursos escassos são exemplos de saberes que mantêm as comunidades em funcionamento. Não se trata apenas de formação acadêmica, mas de experiência aplicada, passada de forma prática entre gerações e vizinhos. Quem possui conhecimento útil costuma ocupar posições de confiança — não por status, mas porque é quem resolve, previne e orienta.
+## Ouro
+Ouro, em Balconato, é sinônimo de estabilidade. Embora a economia local funcione, em parte, por trocas diretas e favores, o ouro ainda serve como base segura para transações mais críticas — como acesso a mantimentos importados, peças de reposição, equipamentos de inverno ou serviços especializados. Sua função não é de ostentação, mas de garantia: quem possui ouro tem margem para agir diante de emergências, negociar em períodos de escassez e proteger sua família contra os imprevistos de um território severo. Em um reino onde quase tudo pode congelar, o ouro permanece como um bem que assegura continuidade.
+
+Consulte [[Vetor de usuário]] e [[As Personas]]

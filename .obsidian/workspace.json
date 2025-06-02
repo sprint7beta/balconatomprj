@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "93f1d4cc96decef5",
+    "type": "split",
+    "children": [
+      {
+        "id": "46431b3e6ad66545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "552e3c8d710ab989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Expressar/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "380bfb699b1664a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3ea05ac61fd4fd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a43999d1b2f69c76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d27e1ec00dc1274a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "artesana",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "37bfead8059c2a7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "1cb87e6cf92288a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "49f153cd6d00767e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc873dd401fc7ff7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "O que é Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for O que é Obsidian"
+            }
+          },
+          {
+            "id": "c292f29a29db9ca6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "O que é Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from O que é Obsidian"
+            }
+          },
+          {
+            "id": "3a93989b2fbb01e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3eb5168ba0f5a86b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "O que é Obsidian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of O que é Obsidian"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "552e3c8d710ab989",
+  "lastOpenFiles": [
+    "03-Destilar/index.md",
+    "02-Organizar/index.md",
+    "01-Capturar/index.md",
+    "--Tarefas/O que vamos fazer hoje.md",
+    "--Inbox/Visão geral.md",
+    "--Inbox/Os meios de transporte.md",
+    "--Inbox/Os Bairros.md",
+    "--Inbox/Atributos das personas.md",
+    "--Inbox/As Personas.md",
+    "--Inbox/As Ferramentas.md",
+    "--Inbox/Personas/Diana, Sonhadora Invisível.md",
+    "--Inbox/Personas/Carlos, Nômade Astuto.md",
+    "--Inbox/Personas/Beto, Ostentador Cego.md",
+    "--Inbox/Personas/Ana, Magnata Legal.md",
+    "--Inbox/Personas/anexos/Pasted image 20250516232215.png",
+    "--Inbox/Personas/anexos/Pasted image 20250516224728.png",
+    "--Inbox/Personas/anexos/Pasted image 20250516224710.png",
+    "--Inbox/Personas/anexos/Pasted image 20250516222800.png",
+    "--Inbox/Personas/anexos/Pasted image 20250516211912.png",
+    "--Inbox/Meios de transporte/Trenó.md",
+    "--Inbox/Meios de transporte/Ponte.md",
+    "--Inbox/Meios de transporte/Barco.md",
+    "--Inbox/Meios de transporte/Baldeação.md",
+    "--Inbox/Ferramentas/Vetor de usuário.md",
+    "--Inbox/Ferramentas/Service Blueprint.md",
+    "--Inbox/Ferramentas/Pixar Storytelling.md",
+    "--Inbox/Ferramentas/Markdown.md",
+    "--Inbox/Ferramentas/Job to be Done.md",
+    "--Inbox/Ferramentas/Diagrama Mermaid.md",
+    "--Inbox/Documentos/Termo de Conscientização Sobre Riscos Climáticos (TCRC).md",
+    "--Inbox/Documentos/Registro Único de Conduta Aquática (RUCA).md",
+    "--Inbox/anexos/RevMapa.png",
+    "04-Expressar/--Tarefas",
+    "04-Expressar/--Inbox/Personas/anexos/Pasted image 20250516232215.png",
+    "04-Expressar/--Inbox/Personas/anexos/Pasted image 20250516224728.png",
+    "04-Expressar/--Inbox/Personas/anexos/Pasted image 20250516224710.png",
+    "04-Expressar/--Inbox/Personas/anexos/Pasted image 20250516222800.png",
+    "04-Expressar/--Inbox/Personas/anexos",
+    "04-Expressar/--Inbox/Personas",
+    "04-Expressar/--Inbox/Meios de transporte",
+    "04-Expressar/--Inbox/Ferramentas",
+    "04-Expressar/--Inbox/Bairros",
+    "04-Expressar/--Inbox/anexos",
+    "04-Expressar/--Inbox",
+    "04-Expressar.zip",
+    "--Tarefas"
+  ]
+}
